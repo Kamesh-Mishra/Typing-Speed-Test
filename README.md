@@ -1,5 +1,5 @@
 # Typing-Speed-Test
-A basic Python project which measures typing speed with accuracy.
+A basic Python project which measures typing speed of the User with accuracy.
 
 Output:
 
